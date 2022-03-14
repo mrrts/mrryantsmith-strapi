@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "hello_pages",
+  "info": {
+    "singularName": "hello-page",
+    "pluralName": "hello-pages",
+    "displayName": "Hello Page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "intro": {
+      "type": "richtext"
+    },
+    "techExperience": {
+      "type": "richtext"
+    }
+  }
+}
